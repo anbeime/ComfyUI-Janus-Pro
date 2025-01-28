@@ -17,7 +17,7 @@ ComfyUI 的 Janus-Pro 节点，一个统一的多模态理解和生成框架。
 1. 将此仓库克隆到你的 ComfyUI 的 custom_nodes 文件夹中：
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/CY-CHENYUE/ComfyUI-Janus-Pro
+git clone https://github.com/anbeime/ComfyUI-Janus-Pro
 ```
 
 2. 安装所需依赖：
